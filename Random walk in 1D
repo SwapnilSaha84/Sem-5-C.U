@@ -1,8 +1,6 @@
 '''
 Date:24_08_2022
-C.U Registration No:012-1111-0753-20
-C.U Roll No:203012-21-0080
-
+Author:Swapnil Saha
 Q. Random walk from origin. Draw trajectory of walker for 50 random steps. The random walk consists of 50 steps
 (a)Calculate mean square displacement for 50 random steps average over 3000 independent random walk
 (b)Plot the mean and mean square displacement Vs number of steps
